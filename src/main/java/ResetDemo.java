@@ -3,5 +3,6 @@ public class ResetDemo {
         System.out.println("Reser version 1.0.0");
         System.out.println("Reser version 1.1.0");
         System.out.println("Reser version 1.1.1");
+        System.out.println("Reser version 2.0.0 --> Hello world");
     }
 }
